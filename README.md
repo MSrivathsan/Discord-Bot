@@ -39,3 +39,8 @@ We have implemented several commands such as:
 5.	;inspire: command which receives a random quote and the author from an API (Zenquoutes.io API).
 
 Added features such as warnings to members when they resort to use inappropriate language inside a guild is also added.
+
+## References
+
+- [Discord-Bot](https://www.youtube.com/watch?v=SPTfmiYiuok) - Creating and Customising a Discord Bot 
+- [API Documentation](https://premium.zenquotes.io/zenquotes-documentation/) - API used in the Discord Bot
